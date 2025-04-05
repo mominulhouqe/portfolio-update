@@ -8,8 +8,6 @@ import ModalProject from "../Explore/Explore";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Loader } from "../Loader/Loader";
-import { AuthProvider } from "@/app/context/AuthContext";
-
 
 export const AppLayout = () => {
   const [loading, setLoading] = useState(true);
@@ -44,11 +42,11 @@ export const AppLayout = () => {
           </motion.div>
         )}
       </AnimatePresence>
-      <AuthProvider>
+
 
       <Header />
       <MainContent />
-      </AuthProvider>
+      
       <Footer />
       <ModalProject />
     </ModalProvider>
