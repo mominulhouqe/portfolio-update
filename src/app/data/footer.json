@@ -1,0 +1,33 @@
+{
+  "social": [
+    {
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/mominul-hoque-290340217/",
+      "img": "images/linkdn.png"
+
+    },
+    {
+      "title": "facebook",
+      "link": "https://www.facebook.com/mominvai.fbuser",
+      "img": "images/facebook.png"
+    },
+    {
+      "title": "instagram",
+      "link": "https://www.instagram.com/momin.2/",
+      "img": "images/logo-09-98x27.png"
+    }
+  ],
+  "logo": {
+    "src": "/images/logoss.png"
+  },
+  "phone": {
+    "title": "+880 1580424024",
+    "link": "#"
+  },
+  "copyright": "© 2025 mominulhauqe. All rights reserved.",
+  "email": {
+    "title": "mominulhauqe14@gmail.com",
+    "link": "#"
+  },
+  "address": "Banasree , Dhaka , Bangladesh"
+}
