@@ -12,8 +12,8 @@ import NewsLetter from "./NewsLetter/NewsLetter";
 import { NewsLetterFull } from "./NewsLetter/NewsLetterFull";
 import ResponsiveNav from "./ResponsiveNav";
 import messenger from "@/app/data/messenger.json";
-import { AuthContext } from "@/app/context/AuthContext";
-import { usePathname } from "next/navigation";
+// import { AuthContext } from "@/app/context/AuthContext";
+// import { usePathname } from "next/navigation";
 const Header: React.FC = () => {
   const [openMenu, setOpenMenu] = useState(false);
   const newLetterRef = useRef<HTMLDivElement>(null);
@@ -25,14 +25,14 @@ const Header: React.FC = () => {
   const [activeSection, setActiveSection] = useState("");
   const [showButton, setShowButton] = useState(false);
 
-  const authContext = useContext(AuthContext);
+  // const authContext = useContext(AuthContext);
 
-  if (!authContext) {
-    throw new Error("AuthContext must be used within an AuthProvider");
-  }
+  // if (!authContext) {
+  //   throw new Error("AuthContext must be used within an AuthProvider");
+  // }
 
-  const { isAuthenticated }: any = authContext;
-  const pathname = usePathname(); // Get the current path using usePathname
+  // const { isAuthenticated }: any = authContext;
+  // const pathname = usePathname(); 
 
   const { isShow, handleShow: handleNewPopover } = useOutside(
     false,
