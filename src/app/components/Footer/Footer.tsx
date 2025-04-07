@@ -163,7 +163,7 @@ const Footer = () => {
                 {footer.social.map((s, i) => (
                   <a key={i} className="image-link" href={s.link}>
                     <img
-                      className="image opacity-30 hover:opacity-100 transition-all duration-300 ease-in-out w-[2.5rem] h-[2.5rem] mobile-400:w-[3rem] mobile-400:h-[3rem] 2xl-1600:w-[4rem] 2xl-1600:h-[4rem]"
+                      className="image opacity-30 hover:opacity-100 transition-all duration-300 ease-in-out w-32"
                       src={s.img}
                       alt={s.title}
                     />
