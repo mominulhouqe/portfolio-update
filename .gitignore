@@ -1,15 +1,3 @@
 node_modules
 .next/
 .env
-out
-*.log
-*.tsbuildinfo
-*.js.map
-*.d.ts
-*.js
-*.ts
-*.jsx
-*.tsx
-*.mjs
-
-dist
