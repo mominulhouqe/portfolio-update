@@ -1,7 +1,6 @@
 
 import AboutUs from "../AboutUs/AboutUs";
 import Blog from "../Blog/Blog";
-import Blogs from "../Blog/Blogs";
 import Blurb from "../Blurb/Blurb";
 import Clients from "../Clients/Clients";
 import Contact from "../Contact/Contact";
@@ -20,10 +19,6 @@ export const MainContent = () => {
       <Clients />
       <Contact />
       <Blog />
-      
-
-      <Blogs />
-
     </main>
   );
 };
