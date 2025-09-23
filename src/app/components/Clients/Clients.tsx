@@ -135,7 +135,7 @@ const Clients = () => {
               can fully trust their opinions on my solutions.
             </h5>
 
-            <div
+            {/* <div
               className="row row-30 row-xxl-50 row-content-2 align-items-center text-center"
               data-aos="fade-in"
               data-aos-anchor-placement="center-bottom"
@@ -150,7 +150,7 @@ const Clients = () => {
                   />
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
