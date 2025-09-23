@@ -1,26 +1,26 @@
 [
   {
-    "id": 4,
+    "id": 1,
+    "img": "images/e-com.jpg",
+    "date": "September 23, 2025",
+    "title": "E-Commerce Solutions",
+    "text": "Our E-Commerce Solutions are designed to help businesses of all sizes sell online effortlessly. We create online stores that are visually appealing, user-friendly, and optimized for conversions. From product management to payment integration, every aspect is built to ensure your customers have a smooth and enjoyable shopping experience. Whether you're launching a startup or expanding an existing business, our solutions are tailored to grow with you.",
+    "link": "#"
+  },
+  {
+    "id": 2,
     "img": "images/shopify1.webp",
-    "date": "April 5, 2025",
-    "title": "What We Do – Expert Shopify Web Development & Branding Services",
-    "text": "From sleek Shopify stores to complete brand transformations, our services are designed to help businesses grow online. Whether you're launching a startup or scaling your brand, we craft digital experiences that convert visitors into loyal customers...",
+    "date": "September 23, 2025",
+    "title": "Shopify Development",
+    "text": "Our Shopify Development service delivers fully customized Shopify websites that align with your brand and business goals. We handle everything from theme design and app integration to payment setup and mobile optimization. By focusing on speed, performance, and user experience, we create stores that not only look professional but also maximize sales. Ideal for entrepreneurs and businesses looking for a scalable, reliable e-commerce platform.",
     "link": "#"
   },
   {
-    "id": 5,
-    "img": "images/image-08-287x239.jpg",
-    "date": "April 2, 2025",
-    "title": "Why Your Brand Needs a Custom Shopify Store",
-    "text": "A generic template won't cut it if you want to stand out. Learn why custom Shopify design not only improves performance but also builds trust, boosts conversions, and helps you connect with your audience more deeply...",
-    "link": "#"
-  },
-  {
-    "id": 6,
-    "img": "images/image-09-287x239.jpg",
-    "date": "March 28, 2025",
-    "title": "The Power of Great UX in eCommerce",
-    "text": "User experience (UX) can make or break your online store. This post dives into how intuitive navigation, clear layouts, and mobile-first design lead to higher customer satisfaction and more sales...",
+    "id": 3,
+    "img": "images/custom-web.jpg",
+    "date": "September 23, 2025",
+    "title": "Custom Website Development",
+    "text": "We specialize in building Custom Websites that are tailored to your unique business needs. Every website is designed to reflect your brand identity while being fast, secure, and easy to manage. From simple business websites to complex online platforms, we focus on creating an intuitive user experience that keeps visitors engaged and converts them into loyal customers. Our goal is to deliver a website that grows with your business and stands out from the competition.",
     "link": "#"
   }
 ]
