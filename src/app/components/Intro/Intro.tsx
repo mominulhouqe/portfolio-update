@@ -54,7 +54,7 @@ const Intro = () => {
                     width={introData.introMe.width}
                     height={introData.introMe.height}
                   />
-                  <a
+                  {/* <a
                     className="thumbnail-icon text-white center-button"
                     href={introData.videoLink}
                     onClick={(e) => {
@@ -63,7 +63,7 @@ const Intro = () => {
                     }}
                   >
                     <FaPlay size={20} />
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
