@@ -1,275 +1,139 @@
 [
   {
     "id": 1,
-    "title": "Donut Country",
+    "title": "Deluxe Canvas",
     "list": [
-      "Responsive Interface",
-      "Branding",
-      "Responsive Interface",
-      "Logo Design"
+      "Shopify Development",
+      "UI/UX Design",
+      "Brand Identity",
+      "Responsive Interface"
     ],
-    "description1": "This project combines innovative graphic design and web development techniques to deliver a stunning result.",
-    "myGoal": "My goal was to completely rebuild a well-known website for designers.",
-    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description1": "Deluxe Canvas is a luxury art brand that offers premium wall canvases and fine art prints. The project focused on crafting a high-end Shopify experience that aligns with the brand’s bold and artistic aesthetic.",
+    "myGoal": "My goal was to create a premium Shopify storefront that reflects exclusivity, visual storytelling, and product craftsmanship.",
+    "description2": "The design emphasizes a modern layout with smooth transitions, elegant typography, and optimized navigation. Dynamic animations and storytelling elements immerse users in the artistic experience, boosting brand engagement and conversions.",
     "slides": [
       {
-        "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/image-12-651x773.jpg",
+        "img": "images/p4.png",
         "tags": [
-          {
-            "title": "Design",
-            "link": "#"
-          },
-          {
-            "title": "Branding",
-            "link": "#"
-          }
+          { "title": "Shopify", "link": "https://deluxecanvas.de/" },
+          { "title": "Branding", "link": "https://deluxecanvas.de/" }
         ]
       },
       {
-        "img": "images/image-04-651x773.jpg",
+        "img": "images/p4.png",
         "tags": [
-          {
-            "title": "Design",
-            "link": "#"
-          },
-          {
-            "title": "Branding",
-            "link": "#"
-          },
-          {
-            "title": "Logo",
-            "link": "#"
-          }
+          { "title": "UI/UX", "link": "https://deluxecanvas.de/" },
+          { "title": "Development", "link": "https://deluxecanvas.de/" }
         ]
       }
     ],
     "clientLogo": {
-      "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/logo-02-187x30.png"
-    }
+      "img": "https://deluxecanvas.de/favicon.ico"
+    },
+    "projectLink": "https://deluxecanvas.de/",
+    "date": "2025-04-05"
   },
   {
     "id": 2,
-    "title": "Furni",
+    "title": "Frag Perfumes",
     "list": [
-      "Interior Design",
-      "3D Modeling",
-      "Furniture Layout",
-      "Product Customization"
+      "Shopify Development",
+      "Brand Identity",
+      "E-commerce Design",
+      "Mobile Optimization"
     ],
-    "description1": "This project involved creating an online platform for custom furniture design.",
-    "myGoal": "My goal was to provide users with the ability to design and order furniture according to their preferences.",
-    "description2": "I collaborated with furniture designers to ensure the platform would meet the needs of the interior design industry.",
+    "description1": "Frag Perfumes blends nature-inspired elegance with minimal luxury. This Shopify build captures the brand’s emotional connection through soft tones, natural aesthetics, and seamless product storytelling.",
+    "myGoal": "My goal was to develop a visually refined eCommerce store that expresses purity, luxury, and emotional depth through scent.",
+    "description2": "The layout emphasizes simplicity and user comfort, using a gentle color palette and intuitive navigation. From homepage to checkout, the experience was optimized for engagement and high conversion rates.",
     "slides": [
       {
-        "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/image-12-651x773.jpg",
+        "img": "images/p1.png",
         "tags": [
-          {
-            "title": "Furniture",
-            "link": "#"
-          },
-          {
-            "title": "3D Design",
-            "link": "#"
-          }
+          { "title": "E-commerce", "link": "https://fragperfumes.com/" },
+          { "title": "Branding", "link": "https://fragperfumes.com/" }
         ]
       },
       {
-        "img": "images/image-04-651x773.jpg",
+        "img": "images/p1.png",
         "tags": [
-          {
-            "title": "Custom",
-            "link": "#"
-          },
-          {
-            "title": "Interior",
-            "link": "#"
-          }
+          { "title": "UI/UX", "link": "https://fragperfumes.com/" },
+          { "title": "Development", "link": "https://fragperfumes.com/" }
         ]
       }
     ],
     "clientLogo": {
-      "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/logo-02-187x30.png"
-    }
+      "img": "https://fragperfumes.com/favicon.ico"
+    },
+    "projectLink": "https://fragperfumes.com/",
+    "date": "2025-05-10"
   },
   {
     "id": 3,
-    "title": "uDesign",
+    "title": "Say Hay",
     "list": [
-      "Responsive Interface",
-      "Logo Design",
-      "Branding",
-      "Online Gallery",
-      "Blog"
+      "Shopify Web Development",
+      "Minimal Branding",
+      "Responsive Design",
+      "UI/UX Strategy"
     ],
-    "description1": "This project combines innovative graphic design and web development techniques to deliver a stunning result.",
-    "myGoal": "My goal was to completely rebuild a well-known website for designers.",
-    "description2": "Working with one of the biggest web technologies enterprises resulted in a fruitful cooperation. As a result, my project provided better user experience and simpler interaction with many vital website elements & pages.",
+    "description1": "Say Hay is a fresh juice and wellness brand that promotes health and organic living. This project focused on minimal, modern design and a clean Shopify structure to align with their fresh brand tone.",
+    "myGoal": "My goal was to deliver a sleek, conversion-focused Shopify experience that communicates wellness and modern simplicity.",
+    "description2": "The result is a bright, minimal site featuring crisp typography, optimized images, and fluid user navigation that encourages exploration and engagement.",
     "slides": [
       {
-        "img": "images/image-12-651x773.jpg",
+        "img": "images/p5.png",
         "tags": [
-          {
-            "title": "Design",
-            "link": "#"
-          },
-          {
-            "title": "Branding",
-            "link": "#"
-          }
+          { "title": "Shopify", "link": "https://sayhay.net/" },
+          { "title": "Design", "link": "https://sayhay.net/" }
         ]
       },
       {
-        "img": "images/image-04-651x773.jpg",
+        "img": "images/p5.png",
         "tags": [
-          {
-            "title": "Design",
-            "link": "#"
-          },
-          {
-            "title": "Branding",
-            "link": "#"
-          },
-          {
-            "title": "Logo",
-            "link": "#"
-          }
+          { "title": "Branding", "link": "https://sayhay.net/" },
+          { "title": "UI/UX", "link": "https://sayhay.net/" }
         ]
       }
     ],
     "clientLogo": {
-      "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/logo-02-187x30.png"
-    }
+      "img": "https://sayhay.net/favicon.ico"
+    },
+    "projectLink": "https://sayhay.net/",
+    "date": "2025-02-01"
   },
   {
     "id": 4,
-    "title": "ProKnife",
+    "title": "Sharky",
     "list": [
-      "Product Showcase",
+      "Shopify Website Development",
       "Branding",
-      "E-Commerce Integration",
-      "Mobile Compatibility"
+      "Startup Identity",
+      "E-commerce Integration"
     ],
-    "description1": "This project focuses on creating a modern online store for kitchen knives.",
-    "myGoal": "My goal was to provide an easy and secure way to purchase high-quality knives.",
-    "description2": "The project included integrating an e-commerce platform to allow customers to browse and purchase knives with ease.",
+    "description1": "Sharky is a startup brand offering marine-inspired products. The project was designed to deliver a youthful, bold, and adventurous online presence using Shopify’s dynamic eCommerce framework.",
+    "myGoal": "My goal was to build a high-performing Shopify store with a fun, confident brand personality and modern UI.",
+    "description2": "Vibrant ocean tones, strong typography, and interactive sections create a brand experience that captures Sharky’s energy and mission. The site is optimized for speed, engagement, and visual impact.",
     "slides": [
       {
-        "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/image-12-651x773.jpg",
+        "img": "images/p3.png",
         "tags": [
-          {
-            "title": "Product",
-            "link": "#"
-          },
-          {
-            "title": "E-Commerce",
-            "link": "#"
-          }
+          { "title": "Shopify", "link": "https://edrbt0-d8.myshopify.com/" },
+          { "title": "Branding", "link": "https://edrbt0-d8.myshopify.com/" }
         ]
       },
       {
-        "img": "images/image-04-651x773.jpg",
+        "img": "images/p3.png",
         "tags": [
-          {
-            "title": "Branding",
-            "link": "#"
-          },
-          {
-            "title": "Products",
-            "link": "#"
-          }
+          { "title": "UI/UX", "link": "https://edrbt0-d8.myshopify.com/" },
+          { "title": "Design", "link": "https://edrbt0-d8.myshopify.com/" }
         ]
       }
     ],
     "clientLogo": {
-      "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/logo-02-187x30.png"
-    }
-  },
-  {
-    "id": 5,
-    "title": "Floral Paradise",
-    "list": [
-      "Floral Design",
-      "Website Redesign",
-      "E-Commerce Integration",
-      "Mobile-Friendly"
-    ],
-    "description1": "This project aimed to create an online store for custom floral arrangements.",
-    "myGoal": "My goal was to create a platform for flower enthusiasts to easily shop for fresh floral arrangements.",
-    "description2": "We focused on making the site easy to navigate and ensuring a seamless shopping experience for all users.",
-    "slides": [
-      {
-        "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/image-12-651x773.jpg",
-        "tags": [
-          {
-            "title": "Flowers",
-            "link": "#"
-          },
-          {
-            "title": "E-Commerce",
-            "link": "#"
-          }
-        ]
-      },
-      {
-        "img": "images/image-04-651x773.jpg",
-        "tags": [
-          {
-            "title": "Design",
-            "link": "#"
-          },
-          {
-            "title": "Shop",
-            "link": "#"
-          }
-        ]
-      }
-    ],
-    "clientLogo": {
-      "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/logo-02-187x30.png"
-    }
-  },
-  {
-    "id": 6,
-    "title": "Poultrix",
-    "list": [
-      "Food Delivery",
-      "Subscription Model",
-      "Online Ordering",
-      "User Engagement"
-    ],
-    "description1": "Poultrix is an online platform for ordering fresh poultry products.",
-    "myGoal": "My goal was to develop a seamless food delivery platform for poultry products.",
-    "description2": "The project offers users the ability to order poultry products directly to their doorsteps on a subscription basis.",
-    "slides": [
-      {
-        "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/image-12-651x773.jpg",
-        "tags": [
-          {
-            "title": "Food",
-            "link": "#"
-          },
-          {
-            "title": "Delivery",
-            "link": "#"
-          }
-        ]
-      },
-      {
-        "img": "images/image-04-651x773.jpg",
-        "tags": [
-          {
-            "title": "Subscription",
-            "link": "#"
-          },
-          {
-            "title": "Ordering",
-            "link": "#"
-          }
-        ]
-      }
-    ],
-    "clientLogo": {
-      "img": "https://ld-wt73.template-help.com/wt_prod-29297/images/logo-02-187x30.png"
-    }
+      "img": "https://cdn.shopify.com/s/files/1/0665/2481/0000/files/logo.png?v=1"
+    },
+    "projectLink": "https://edrbt0-d8.myshopify.com/",
+    "password": "shopify-store",
+    "date": "2025-03-12"
   }
 ]

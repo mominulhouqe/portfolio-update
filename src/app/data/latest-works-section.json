@@ -1,111 +1,66 @@
 [
   {
     "id": 1,
-    "image": "images/p2.png",
-    "title": "Donut Country – Shopify Web Design & Branding",
+    "image": "images/p4.png",
+    "title": "Deluxe Canvas – Luxury Shopify Development & Bold Brand Identity",
     "tags": [
-      {
-        "title": "Design",
-        "link": "#"
-      },
-      {
-        "title": "Branding",
-        "link": "#"
-      }
+      { "title": "Shopify Development", "link": "https://deluxecanvas.de/" },
+      { "title": "UI/UX Design", "link": "https://deluxecanvas.de/" },
+      { "title": "Branding", "link": "https://deluxecanvas.de/" }
     ],
-    "titleLink": "#",
-    "description": "A fun and imaginative Shopify web design project centered around a donut-themed brand. Crafted a playful identity and strategic branding elements to establish a memorable visual presence for Donut Country.",
-    "date": "2025-01-15",
-    "client": "Donut World",
-    "projectLink": "https://example.com/donut-country"
+    "titleLink": "https://deluxecanvas.de/",
+    "description": "Crafted a premium Shopify experience for Deluxe Canvas, a luxury wall art brand. Focused on visual storytelling, modern animations, and a bold color palette to elevate the brand’s exclusivity. The website delivers a smooth, high-end eCommerce experience with seamless navigation, optimized performance, and immersive product presentation.",
+    "date": "2025-04-05",
+    "client": "Deluxe Canvas",
+    "projectLink": "https://deluxecanvas.de/"
   },
   {
     "id": 2,
-    "image": "images/p5.png",
-    "title": "Say Hay – Shopify Web Development & Minimal Branding",
+    "image": "images/p1.png",
+    "title": "Frag Perfumes – Nature-Inspired Shopify Store & Elegant Brand Design",
     "tags": [
-      {
-        "title": "Development",
-        "link": "https://sayhay.net/"
-      }
+      { "title": "Shopify Development", "link": "https://fragperfumes.com/" },
+      { "title": "E-commerce Design", "link": "https://fragperfumes.com/" },
+      { "title": "Brand Identity", "link": "https://fragperfumes.com/" }
+    ],
+    "titleLink": "https://fragperfumes.com/",
+    "description": "Developed an elegant Shopify store for Frag Perfumes, blending soft natural hues with minimalistic design principles. The site communicates freshness, purity, and emotion through clean UI elements and fluid transitions. A refined visual identity reinforces the brand’s promise of connecting nature and luxury through scent.",
+    "date": "2025-05-10",
+    "client": "Floral Paradise Co.",
+    "projectLink": "https://fragperfumes.com/"
+  },
+  {
+    "id": 3,
+    "image": "images/p5.png",
+    "title": "Say Hay – Minimal Shopify Development for a Fresh Juice Brand",
+    "tags": [
+      { "title": "Shopify Development", "link": "https://sayhay.net/" },
+      { "title": "Branding", "link": "https://sayhay.net/" },
+      { "title": "UI/UX Design", "link": "https://sayhay.net/" }
     ],
     "titleLink": "https://sayhay.net/",
-    "description": "Executed a modern Shopify web development project for a healthy juice brand. Designed a sleek, minimalistic brand identity that aligns with the company’s clean and fresh image.",
+    "description": "Designed and developed a clean, minimal Shopify site for Say Hay, a fresh juice and wellness company. The aesthetic approach emphasizes simplicity and freshness — mirroring the brand’s organic philosophy. Every page was optimized for user flow, product storytelling, and conversion-focused design.",
     "date": "2025-02-01",
     "client": "Say Hay",
     "projectLink": "https://sayhay.net/"
   },
   {
-    "id": 3,
+    "id": 4,
     "image": "images/p3.png",
-    "title": "Sharky – Shopify Website & Branding for Startups",
+    "title": "Sharky – Shopify Website Design & Branding for a Startup",
     "tags": [
       {
-        "title": "Sharky",
+        "title": "Shopify Development",
         "link": "https://edrbt0-d8.myshopify.com/"
       },
-      {
-        "title": "Branding",
-        "link": "https://edrbt0-d8.myshopify.com/"
-      },
-      {
-        "title": "website",
-        "link": "https://edrbt0-d8.myshopify.com/"
-      }
+      { "title": "Brand Strategy", "link": "https://edrbt0-d8.myshopify.com/" },
+      { "title": "UI/UX Design", "link": "https://edrbt0-d8.myshopify.com/" }
     ],
     "titleLink": "https://edrbt0-d8.myshopify.com/",
-    "description": "Delivered a full-scale Shopify web development solution for a shark-themed startup brand. Included branding, UI/UX design, and engaging visuals to create a bold, energetic online presence.",
+    "description": "Delivered a full Shopify solution for Sharky, an ocean-inspired startup brand. The website integrates vibrant visuals, bold typography, and an energetic brand style. Optimized for performance, the site reflects a confident, modern startup ready to make waves in the market.",
     "date": "2025-03-12",
     "client": "Development Labs",
     "projectLink": "https://edrbt0-d8.myshopify.com/",
     "password": "shopify-store"
-  },
-  {
-    "id": 4,
-    "image": "images/p4.png",
-    "title": "Deluxe Canva – Shopify Development & Bold Visual Identity",
-    "tags": [
-      {
-        "title": "Development",
-        "link": "https://deluxecanvas.de/"
-      },
-      {
-        "title": "Shopify",
-        "link": "https://deluxecanvas.de/"
-      },
-      {
-        "title": "Branding",
-        "link": "https://deluxecanvas.de/"
-      }
-    ],
-    "titleLink": "https://deluxecanvas.de/",
-    "description": "Developed a bold and premium Shopify store for a high-end Pic art brand. Focused on strong visual storytelling, dynamic UI elements, and a sharp design approach to reflect product quality.",
-    "date": "2025-04-05",
-    "client": "Deluxecanvas.",
-    "projectLink": "https://deluxecanvas.de/"
-  },
-  {
-    "id": 5,
-    "image": "images/p1.png",
-    "title": "Frag Perfumes – Shopify Store Development & Nature-Inspired Branding",
-    "tags": [
-      {
-        "title": "Development",
-        "link": "https://fragperfumes.com/"
-      },
-      {
-        "title": "Shopify",
-        "link": "https://fragperfumes.com/"
-      },
-      {
-        "title": "Branding",
-        "link": "https://fragperfumes.com/"
-      }
-    ],
-    "titleLink": "https://fragperfumes.com/",
-    "description": "Built a nature-inspired Shopify web store for a perfume company. Combined soft color palettes with elegant branding to convey freshness, luxury, and emotional connection through scent.",
-    "date": "2025-05-10",
-    "client": "Floral Paradise Co.",
-    "projectLink": "https://fragperfumes.com/"
   }
 ]
